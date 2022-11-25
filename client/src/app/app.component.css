@@ -1,0 +1,20 @@
+.container {
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row-reverse;
+    gap: 15px;
+}
+
+.add-client {
+    margin-bottom: 30px;
+    height: 400px;
+}
+
+.list-client {
+    margin-bottom: 50px;
+}
+
+.btn-add-client {
+    margin-right: 10px;
+}

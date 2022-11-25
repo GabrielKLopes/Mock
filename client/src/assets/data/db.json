@@ -1,0 +1,94 @@
+{
+  "clients": [
+    {
+      "id": 3,
+      "first_name": "Rosemaria",
+      "last_name": "Kaindl",
+      "email": "rkaindl2@ca.com"
+    },
+    {
+      "id": 4,
+      "first_name": "Vivianne",
+      "last_name": "O'Feeney",
+      "email": "vofeeney3@wordpress.org"
+    },
+    {
+      "id": 5,
+      "first_name": "Selestina",
+      "last_name": "Durbyn",
+      "email": "sdurbyn4@list-manage.com"
+    },
+    {
+      "id": 6,
+      "first_name": "Guilbert",
+      "last_name": "Yukhnini",
+      "email": "gyukhnini5@mac.com"
+    },
+    {
+      "id": 7,
+      "first_name": "Kenon",
+      "last_name": "Geare",
+      "email": "kgeare6@stumbleupon.com"
+    },
+    {
+      "id": 8,
+      "first_name": "Ely",
+      "last_name": "Dowdney",
+      "email": "edowdney7@va.gov"
+    },
+    {
+      "id": 9,
+      "first_name": "Maurits",
+      "last_name": "Volk",
+      "email": "mvolk8@mapy.cz"
+    },
+    {
+      "id": 10,
+      "first_name": "Joyous",
+      "last_name": "Enrigo",
+      "email": "jenrigo9@imdb.com"
+    },
+    {
+      "id": 11,
+      "first_name": "Victor",
+      "last_name": "Mabee",
+      "email": "vmabeea@vkontakte.ru"
+    },
+    {
+      "id": 12,
+      "first_name": "Kaitlynn",
+      "last_name": "Filippo",
+      "email": "kfilippob@foxnews.com"
+    },
+    {
+      "id": 13,
+      "first_name": "Rosemary",
+      "last_name": "Derbyshire",
+      "email": "rderbyshirec@samsung.com"
+    },
+    {
+      "id": 14,
+      "first_name": "Creigh",
+      "last_name": "Basindale",
+      "email": "cbasindaled@rambler.ru"
+    },
+    {
+      "id": 15,
+      "first_name": "Antonella",
+      "last_name": "Whacket",
+      "email": "awhackete@indiatimes.com"
+    },
+    {
+      "first_name": "Matheus",
+      "last_name": "Aparecido",
+      "email": "gabrielklopes08@gmail.com",
+      "id": 16
+    },
+    {
+      "first_name": "Matheus",
+      "last_name": "ricardo",
+      "email": "meupauegrande@gmail.com",
+      "id": 17
+    }
+  ]
+}
